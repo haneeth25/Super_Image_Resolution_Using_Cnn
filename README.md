@@ -9,3 +9,5 @@
 
 <img width="1440" alt="Screenshot 2022-12-21 at 11 32 08 PM" src="https://user-images.githubusercontent.com/85325393/208973488-9ea37a23-5b25-4607-a534-e425ec593d0d.png">
 Outputing both low resolution and our ouput(high resolution) images
+
+PSNR of low res image is 27 , PSNR of higj res image is 30
